@@ -2,7 +2,7 @@
 
 This project presents an interactive **Power BI dashboard** designed to monitor and analyze key performance metrics for a hospital's Emergency Room (ER). The dashboard visualizes insights on patient volume, wait times, admission rates, referral departments, and demographics to support data-driven decision-making.
 
-![Dashboard Screenshot](assets/img/portfolio/hospital.jpg)
+![Dashboard Screenshot](assets/hospital.jpg)
 
 ---
 
@@ -49,8 +49,4 @@ This project presents an interactive **Power BI dashboard** designed to monitor 
 -  Department Referrals: Bar graph of specialties (e.g. ortho, cardio)
 -  Demographics: Gender, race, and age group breakdown
 
----
-## 📷 Preview
-
-![Dashboard](assets/img/portfolio/hospital.jpg)
 
